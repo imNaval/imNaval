@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imNaval
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... programming skills
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... programming skills and React
+- 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...
 
 <!---
